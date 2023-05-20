@@ -1,3 +1,3 @@
 <?php
-ECHO "DFDFDFFFDFD111111";
-ECHO "DFDFDFDFD888888";
+ECHO "lan 1 "
+  echo "lan1_dong2"
